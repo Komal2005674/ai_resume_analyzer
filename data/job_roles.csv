@@ -1,0 +1,6 @@
+role,required_skills,description
+Data Analyst,Python|SQL|Excel|Pandas|Power BI,Analyze datasets using Python SQL Excel Pandas and Power BI. Create reports dashboards and data visualizations.
+Machine Learning Engineer,Python|Machine Learning|Scikit-learn|Pandas|FastAPI|Docker,Build machine learning models with Python scikit-learn and Pandas. Serve models using FastAPI and Docker.
+AI Engineer,Python|Machine Learning|Deep Learning|LLM|RAG|REST API,Develop AI applications using Python machine learning deep learning LLM RAG and APIs.
+NLP Engineer,Python|NLP|Transformers|Hugging Face|PyTorch,Build text processing applications with Python NLP transformers Hugging Face and PyTorch.
+Computer Vision Engineer,Python|Computer Vision|OpenCV|CNN|YOLO,Create image and video applications with Python OpenCV CNN YOLO and computer vision.

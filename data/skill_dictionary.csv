@@ -1,0 +1,40 @@
+skill,category,aliases
+Python,Programming,python
+Java,Programming,java
+C++,Programming,c++
+C#,Programming,c#
+JavaScript,Programming,javascript|js
+HTML,Web,html
+CSS,Web,css
+SQL,Databases,sql
+MongoDB,Databases,mongodb|mongo db
+PostgreSQL,Databases,postgresql|postgres
+Excel,Analytics,excel|microsoft excel
+Power BI,Analytics,power bi
+Tableau,Analytics,tableau
+Pandas,Analytics,pandas
+NumPy,Analytics,numpy
+Matplotlib,Analytics,matplotlib
+Machine Learning,AI,machine learning|ml
+Deep Learning,AI,deep learning
+Scikit-learn,AI,scikit-learn|sklearn
+TensorFlow,AI,tensorflow
+PyTorch,AI,pytorch
+NLP,AI,nlp|natural language processing
+Transformers,AI,transformers|transformer models
+Hugging Face,AI,hugging face|huggingface
+LLM,AI,llm|large language models
+RAG,AI,rag|retrieval augmented generation
+Computer Vision,AI,computer vision
+OpenCV,AI,opencv
+CNN,AI,cnn|convolutional neural network
+YOLO,AI,yolo
+FastAPI,Web,fastapi
+Streamlit,Web,streamlit
+REST API,Web,rest api|restful api|rest APIs
+Docker,Tools,docker
+Git,Tools,git
+GitHub,Tools,github
+AWS,Cloud,aws|amazon web services
+Azure,Cloud,azure
+MLflow,Tools,mlflow
