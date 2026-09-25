@@ -1,0 +1,9 @@
+Case,File used,Expected result,Actual result,Status
+Data Analyst DOCX,Sample_Data_Analyst_Resume.docx,Data Analyst ranks first,Data Analyst ranked first at 86.4%,Passed
+NLP DOCX,Sample_NLP_Resume.docx,NLP Engineer ranks first,NLP Engineer ranked first at 94.0%,Passed
+NLP PDF,Sample_NLP_Resume.pdf,NLP Engineer ranks first,NLP Engineer ranked first at 94.0%,Passed
+Computer Vision DOCX,Sample_Computer_Vision_Resume.docx,Computer Vision Engineer ranks first,Computer Vision Engineer ranked first at 94.0%,Passed
+Name change test,Sample_Computer_Vision_Resume_Name_Test.docx,Adding a name keeps the same top match and score,Computer Vision Engineer remained first at 94.0%,Passed
+Section detection,Sample_NLP_Resume.docx,Education projects and experience are shown,Sections displayed correctly,Passed
+Skill gap and roadmap,Sample_NLP_Resume.pdf with Data Analyst selected,Missing skills and roadmap displayed,SQL Excel Pandas and Power BI listed with four-week roadmap,Passed
+Report download,Sample_NLP_Resume.pdf with Data Analyst selected,Report includes selected role and roadmap,Downloaded report includes Data Analyst and four-week roadmap,Passed
